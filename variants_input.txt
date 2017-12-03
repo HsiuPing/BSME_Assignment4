@@ -1,0 +1,7 @@
+chr1	20	T	A	John
+chr2	1576	C	G	Bob
+chr3	6475	A	T	Bob
+chrX	3245	A	C	 
+chr18	77429	T	C	Katty
+chr15	6679	A	T	 
+chr12	33455	A	G	Ruby

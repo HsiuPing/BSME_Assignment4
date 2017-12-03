@@ -1,0 +1,8 @@
+Josh	M	Betty	John
+Melisa	F	Betty	 
+Betty	F	Katty	Jack
+Bob	M	 	 
+Mason	M	Lucy	Alex
+Jack	M	 	Alex
+Alex	M	 	 
+Katty	F	Ruby	Michael
